@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="com.vagas.controllers.form.CandidatoForm" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/controllers/form/CandidatoForm.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="227" x="307" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.vagas.models.LoginCandidato" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/models/LoginCandidato.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="168" x="1367" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="3" language="java" name="com.vagas.repository" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/repository" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="147" x="574" y="-42"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <interface id="4" language="java" name="com.vagas.repository.CandidatosRepository" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/repository/CandidatosRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="240" x="2537" y="313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="com.vagas.dto.CandidatoDto" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/dto/CandidatoDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="254" x="761" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.vagas.models.Cursos" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/models/Cursos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="186" x="1256" y="1185"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.vagas.controllers.CandidatoController" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/controllers/CandidatoController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="416" x="2677" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.vagas.controllers.StatusController" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/controllers/StatusController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="117" x="1055" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="9" language="java" name="com.vagas.view" project="empregos" file="/empregos/src/main/java/com/vagas/view" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="115" x="1212" y="-42"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="10" language="java" name="com.vagas.models.LoginCandidatoFacebook" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/models/LoginCandidatoFacebook.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="167" x="1479" y="313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="11" language="java" name="com.vagas.controllers" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/controllers" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="151" x="1575" y="-42"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="12" language="java" name="com.vagas.empregos" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/empregos" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="147" x="1766" y="-42"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="13" language="java" name="com.vagas.dto" project="empregos" file="/empregos/src/main/java/com/vagas/dto" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="107" x="1953" y="-42"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="14" language="java" name="com.vagas.models" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/models" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="131" x="2100" y="-42"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="15" language="java" name="com.vagas.controllers.form" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/controllers/form" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="181" x="2271" y="-42"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="16" language="java" name="com.vagas.empregos.EmpregosApplication" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/empregos/EmpregosApplication.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="145" x="2492" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.vagas.models.Curriculo" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/models/Curriculo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="477" width="308" x="1256" y="668"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.vagas.models.Candidato" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/models/Candidato.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="183" x="1256" y="313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="19" language="java" name="com.vagas.repository.CurriculoRepository" project="empregos" 
+    file="/empregos/src/main/java/com/vagas/repository/CurriculoRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="163" x="2817" y="313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <association id="20">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="21" name="curriculoRepository"/>      
+      <multiplicity id="22" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="24" name="candidato"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="26">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="27" name="candidatosRepository"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="29">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="30" name="cursos"/>      
+      <multiplicity id="31" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="32">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="33" name="curriculo"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
